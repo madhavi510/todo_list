@@ -1,0 +1,9 @@
+.Todo-Item-Container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.todoItem {
+  margin-right: 50px;
+}
